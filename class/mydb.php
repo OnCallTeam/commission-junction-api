@@ -5,7 +5,7 @@ class mydb {
 	private $host = "localhost";
 	private $user = "root";
 	private $pass = "";
-	private $db   = "cj_api";
+	private $db   = "cjaffiliates";
 	private $where = array();
 	private $queries = array();
 	private $con;
